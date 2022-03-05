@@ -46,11 +46,6 @@ export default {
           title: 'Welcome',
           to: '/',
         },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
-        },
       ],
       title: 'Flats - O Pantaneiro',
     }
